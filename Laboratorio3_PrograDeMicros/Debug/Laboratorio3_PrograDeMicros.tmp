@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Mateo\Documents\Atmel Studio\7.0\Laboratorio3_PrograDeMicros\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Mateo\Documents\Atmel Studio\7.0\Laboratorio3_PrograDeMicros\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Mateo\Documents\Atmel Studio\7.0\Laboratorio3_PrograDeMicros\Debug\Laboratorio3_PrograDeMicros.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Laboratorio3_PrograDeMicros.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Laboratorio3_PrograDeMicros.map</FILE>
+  <FILE>Laboratorio3_PrograDeMicros.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\Mateo\Documents\Atmel Studio\7.0\Laboratorio3_PrograDeMicros\main.asm</FILE><LINE>25</LINE></MAIN>
+  <Interrupcion><FILE>C:\Users\Mateo\Documents\Atmel Studio\7.0\Laboratorio3_PrograDeMicros\main.asm</FILE><LINE>97</LINE></Interrupcion>
+  <Int_T0><FILE>C:\Users\Mateo\Documents\Atmel Studio\7.0\Laboratorio3_PrograDeMicros\main.asm</FILE><LINE>137</LINE></Int_T0>
+  <Setup><FILE>C:\Users\Mateo\Documents\Atmel Studio\7.0\Laboratorio3_PrograDeMicros\main.asm</FILE><LINE>37</LINE></Setup>
+  <Timer0><FILE>C:\Users\Mateo\Documents\Atmel Studio\7.0\Laboratorio3_PrograDeMicros\main.asm</FILE><LINE>125</LINE></Timer0>
+  <TABLA7SEG><FILE>C:\Users\Mateo\Documents\Atmel Studio\7.0\Laboratorio3_PrograDeMicros\main.asm</FILE><LINE>190</LINE></TABLA7SEG>
+  <Loop><FILE>C:\Users\Mateo\Documents\Atmel Studio\7.0\Laboratorio3_PrograDeMicros\main.asm</FILE><LINE>78</LINE></Loop>
+  <DELAY2><FILE>C:\Users\Mateo\Documents\Atmel Studio\7.0\Laboratorio3_PrograDeMicros\main.asm</FILE><LINE>170</LINE></DELAY2>
+  <DELAY><FILE>C:\Users\Mateo\Documents\Atmel Studio\7.0\Laboratorio3_PrograDeMicros\main.asm</FILE><LINE>109</LINE></DELAY>
+  <Muestra><FILE>C:\Users\Mateo\Documents\Atmel Studio\7.0\Laboratorio3_PrograDeMicros\main.asm</FILE><LINE>145</LINE></Muestra>
+  <REINICIO><FILE>C:\Users\Mateo\Documents\Atmel Studio\7.0\Laboratorio3_PrograDeMicros\main.asm</FILE><LINE>155</LINE></REINICIO>
+  <REINICIO2><FILE>C:\Users\Mateo\Documents\Atmel Studio\7.0\Laboratorio3_PrograDeMicros\main.asm</FILE><LINE>177</LINE></REINICIO2>
+ </LABELS>
+</ASSEMBLER_INFO>
